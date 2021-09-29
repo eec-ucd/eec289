@@ -1,1 +1,1 @@
-{"REGION": "us-west-1", "BUCKET": "eec289-std-bckt", "TQUEUE": "https://us-west-1.queue.amazonaws.com/256787082177/jqeec289", "RQUEUE": "https://us-west-1.queue.amazonaws.com/256787082177/regqecc289"}
+{"REGION": "us-west-1", "BUCKET": "eec289buckets3", "TQ_URL": "https://us-west-1.queue.amazonaws.com/292696024066/jqeec289", "RQ_URL": "https://us-west-1.queue.amazonaws.com/292696024066/regqecc289"}
