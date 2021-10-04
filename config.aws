@@ -1,1 +1,1 @@
-{"Region": ["us-west-1"], "Bucket": ["eec289buckets3b"], "TaskQueue": ["jqeec289"], "RegQueue": ["eec289qregq"], "Notification": ["reg-eec289-sns", "@ucdavis.edu"]}
+{"Region": ["us-west-1"], "Bucket": ["eec289buckets3b"], "TaskQueue": ["jqeec289"]}
